@@ -21,3 +21,16 @@
 
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
+.idea/.name
+./idea/*
+.idea/misc.xml
+.idea/workspace.xml
+WegoTrialAssignment/.idea/codeStyles/codeStyleConfig.xml
+WegoTrialAssignment/.idea/compiler.xml
+WegoTrialAssignment/.idea/encodings.xml
+WegoTrialAssignment/.idea/misc.xml
+WegoTrialAssignment/.idea/workspace.xml
+
+# Build results
+target/
+test-output/
