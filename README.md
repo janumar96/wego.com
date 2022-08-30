@@ -17,3 +17,5 @@ Along with test package having test file i.e. "FlightsSearchTestCases" that basi
 	Automation Tool: Selenium.
 	Test Framework: TestNG.
   Build and dependecy resolution tool : Maven
+
+> Note: As html dom elements are encapsulated(shadow-host) with respect to manipulation, selenium API's or locatores cannot be used directly. Therefore javascript execution in selenium used to fetch and perform actions on web elements.
